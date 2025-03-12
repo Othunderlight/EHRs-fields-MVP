@@ -7,3 +7,6 @@ This repo outlines the fields & the structure for an Electronic Health Records (
 
 
 ### DataBase Schema
+- **Omar 12/3/2025:** [db schema](MVP/db/omar/db-schema.md)
+
+- **Tasneem 12/3/2025:** [db schema](MVP/db/tasneem/db-schema.md)
